@@ -3,11 +3,11 @@
 # **Прошивка модема huawei e3372h-153**
 
 Нужно скачать по ссылкам и разархивировать по папкам, для удобной навигации
-| прошивка hilink                   | https://kraken-proxy.ru/5183512d-38fd-4db2-baa7-0d5563ed687a |
-| --------------------------------- | ------------------------------------------------------------ |
-| веб-интерфейс                     | https://kraken-proxy.ru/71cb83ff-2555-4b2d-b1d4-dd7e86d6089a |
-| смена имеи                        | https://kraken-proxy.ru/9e0b67ef-7664-4a55-813a-fadab0d41251 |
-| зафиксировать ттл                 | https://kraken-proxy.ru/03d6af0e-7167-47a0-ac61-f97502561570 |
+| прошивка hilink                   | https://api.kraken-proxy.ru/api/users/download/40 |
+| --------------------------------- | ----------------------------------------------------------- |
+| веб-интерфейс                     | https://api.kraken-proxy.ru/api/users/download/41 |
+| смена имеи                        | https://api.kraken-proxy.ru/api/users/download/42 |
+| зафиксировать ттл                 | https://api.kraken-proxy.ru/api/users/download/44 |
 | Имеи генератор                    | https://www.imei.info/imei_generator/                        |
 | dc-unlocker (ЗАПУСКАТЬ ОТ АДМИНА) | https://www.dc-unlocker.com/downloads/DC_unlocker_software   |
 
